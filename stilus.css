@@ -10,8 +10,15 @@ h1{
     margin-left: auto;
     margin-right: auto;
 }
-.igen {
+.jobbra {
     border: 7px solid red;
     padding: 10px;
-    border-spacing:
+    float: right;
+    margin-left: 10px;
+}
+.balra {
+    border: 7px solid red;
+    padding: 10px;
+    float: left;
+    margin-right: 10px;
 }
