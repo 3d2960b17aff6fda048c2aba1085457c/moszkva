@@ -1,0 +1,17 @@
+body {
+    border: 1000px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    text-align: center;
+}
+.kozepre {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.igen {
+    border: 7px solid red;
+    padding: 10px;
+    border-spacing:
+}
