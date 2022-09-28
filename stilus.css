@@ -1,6 +1,8 @@
 body {
     border: 1000px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: darkred;
+    color: yellow;
 }
 h1{
     text-align: center;
